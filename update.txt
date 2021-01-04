@@ -1,4 +1,4 @@
 {
-  "updateurl": "https://www.dropbox.com/s/31rekmopn28z1r1/Stop%20Whining.lua?dl=1",
+  "updateurl": "https://www.dropbox.com/s/8jhejoi1rqvhxkl/Stop%20Whining.lua?dl=1",
   "latest": "2"
 }
